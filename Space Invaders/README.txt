@@ -3,5 +3,5 @@
 "Space Invaders"
 
 
-addicting shooter.....   Arrow-Keys for move, SPACE for shoot, ESC for exit
+addicting shooter.....   Arrow-Keys to move,    SPACE to shoot,    ESC for exit
 
