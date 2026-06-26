@@ -6,4 +6,4 @@ So i make some cool Tetris-clones, a addicting Space Invaders and a heavy Shoote
 
 Have fun.
 
-Oh yes, control with Arrow Keys and SPACE for shooting or drop down in Tetris.. :)
+Oh yes... control with Arrow Keys and SPACE for shooting or drop down in Tetris.. :)
