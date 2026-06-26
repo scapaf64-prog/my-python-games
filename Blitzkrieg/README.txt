@@ -3,5 +3,5 @@
 "Blitzkrieg"
 
 
-heavy "Flak"-shooter..     Arrow Keys for move the Flak,    SPACE for fire,    ESC for exit
+heavy "Flak"-shooter..     Arrow Keys to move the Flak,    SPACE to fire,    ESC for exit
 
