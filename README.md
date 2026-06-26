@@ -5,3 +5,5 @@ Feel free to change the code, make classes and so on. With ChatGPT i was able to
 So i make some cool Tetris-clones, a addicting Space Invaders and a heavy Shooter called "Blitzkrieg". 
 
 Have fun.
+
+Oh yes, control with Arrow Keys and SPACE for shooting or drop down in Tetris.. :)
