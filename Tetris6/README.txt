@@ -3,6 +3,6 @@
 "Frankenstein-tetris"
 
 
-"elecricity"-animation when a line is full,    Arrow-keys to move,   SPACE to drop down,    ESC to exit
+"electricity"-animation when a line is full,    Arrow-keys to move,   SPACE to drop down,    ESC to exit
 
 
