@@ -10,3 +10,5 @@ addicting shooter.....   Arrow-Keys to move,    SPACE to shoot,    ESC for exit
 light brown enemies need 3 hits, dark brown enemies need 2 hits and red enemies need only one hit to be destroyed.
 
 when your ship is getting a hit, you are "invinvible" as long as your ship is blinking.
+
+
