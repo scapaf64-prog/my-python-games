@@ -5,7 +5,7 @@
 
 heavy "Flak"-shooter..  
 
-( there was once a game called "Blitz", a very addicting shooter, but even KI cannot found it any more, so I make my own game. :) )  
+( there was once a game called "Blitz", a very addictive shooter, but even KI cannot found it any more, so I make my own game. :) )  
 
 Arrow Keys to move the Flak,    SPACE to fire,    ESC for exit
 
