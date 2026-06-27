@@ -9,4 +9,6 @@ Zeppelines, that emerge later in the game, need 3 hits to be destroyed. With 2 h
 
 The Radar at the bottom shows incoming airplains.
 
+flak1.mp4 is a short video of the game.
+
 
