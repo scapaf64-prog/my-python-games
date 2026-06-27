@@ -6,7 +6,7 @@ Feel free to change the code.
 
 Control with Arrow Keys and SPACE for shooting or drop down in Tetris..
 
-The Tetris-clones differ mainly in their line-delete-animation.
+Tetris-clones differ mainly in their line-delete-animation.
 
 mp4-files are short videos of the games.
 
