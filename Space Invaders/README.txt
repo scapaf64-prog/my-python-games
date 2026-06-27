@@ -5,7 +5,7 @@
 
 heavy shooter-action... 
 
-Arrow-Keys to move,    SPACE for shooting,    ESC for exit
+ARROW-KEY's to move,    SPACE for shooting,    ESC for exit
 
 3 eliminated enemies to gain one shield-point,     
 
