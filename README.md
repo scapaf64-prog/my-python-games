@@ -6,6 +6,7 @@ Feel free to change the code.
 
 Control with Arrow Keys and SPACE for shooting or drop down in Tetris.. :)
 
-mp4-files are short videos of the game.
+mp4-files are short videos of the games.
+
 
 
