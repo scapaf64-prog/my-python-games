@@ -11,7 +11,7 @@ Arrow-Keys to move,    SPACE for shooting,    ESC for exit
 
 light-brown enemies need 3 hits, dark-brown enemies need 2 hits and red enemies need only one hit to be destroyed.
 
-when your ship is getting a hit, you are "invinvible" as long as your ship is blinking.
+when your ship is hit by a bullet, you are "invinvible" as long as your ship is blinking.
 
 invaders.mp4 is a short video of the game.
 
