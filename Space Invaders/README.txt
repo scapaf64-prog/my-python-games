@@ -11,4 +11,6 @@ light brown enemies need 3 hits, dark brown enemies need 2 hits and red enemies 
 
 when your ship is getting a hit, you are "invinvible" as long as your ship is blinking.
 
+invaders.mp4 is a short video of the game.
+
 
