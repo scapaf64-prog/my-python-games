@@ -10,6 +10,8 @@ Tetris-clones differ mainly in their line-delete-animation.
 
 Shooter's are all heavy action.
 
+Finding the right sound effects took me almost as long as writing the code.
+
 mp4-files are short videos of the games.
 
 
