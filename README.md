@@ -4,7 +4,9 @@ I am new in Python but with ChatGPT it was easy to create short and addicting ga
 
 Feel free to change the code.
 
-Control with Arrow Keys and SPACE for shooting or drop down in Tetris.. :)
+Control with Arrow Keys and SPACE for shooting or drop down in Tetris..
+
+The Tetris-clones differ mainly in their line-delete-animation.
 
 mp4-files are short videos of the games.
 
