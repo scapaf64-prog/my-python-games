@@ -4,7 +4,7 @@ I am new in Python but with ChatGPT it was easy to create short and addictive ga
 
 Feel free to change the code.
 
-Easy control with ARROW-KEY's, SPACE for shooting or drop down in Tetris..
+Easy control with ARROW-KEY's,   SPACE for shooting or drop down in Tetris..
 
 Press ESC at any time to exit.
 
