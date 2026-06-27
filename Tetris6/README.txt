@@ -5,7 +5,7 @@
 
 ...soo realistic electricity. 
 
-"electricity"-animation for full lines    
+"electricity"-animation for lines to clear,  
 
 ARROW-KEY's to move,   SPACE to drop down,    ESC to exit
 
