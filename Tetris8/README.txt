@@ -3,7 +3,7 @@
 "Lasergun-tetris"
 
 
-...ok, ther is no real laser-gun.
+...ok, there is no real laser-gun.
 
 "Laser-gun"-animation for lines to clear,
 
