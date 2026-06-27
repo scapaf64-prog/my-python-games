@@ -3,7 +3,9 @@
 "Space Invaders"
 
 
-addicting shooter.....   Arrow-Keys to move,    SPACE to shoot,    ESC for exit
+heavy shooter-action... 
+
+Arrow-Keys to move,    SPACE for shooting,    ESC for exit
 
 3 eliminated enemies to gain one shield-point,     if your shield is used up, your ship is red blinking and explode.
 
