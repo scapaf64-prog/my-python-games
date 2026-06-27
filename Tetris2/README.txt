@@ -6,7 +6,7 @@
 
 my first Tetris-clone.. take care of your eyes! :))
 
-"Neon-flash"-animation for full lines    
+"Neon-flash"-animation for lines to clear,  
 
 ARROW-KEY's to move,   SPACE to drop down,    ESC to exit
 
