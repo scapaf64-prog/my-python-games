@@ -5,7 +5,7 @@
 
 ...real cowbells. I like it.
 
-"Cowbells"-animation for full lines    
+"Cowbells"-animation for lines to clear,   
 
 ARROW-KEY's to move,   SPACE to drop down,    ESC to exit
 
