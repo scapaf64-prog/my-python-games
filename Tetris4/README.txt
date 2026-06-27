@@ -5,7 +5,7 @@
 
 ...one of my favorits.
 
-"cash register"-animation for full lines   
+"cash register"-animation for lines to clear, 
 
 ARROW-KEY's to move,   SPACE to drop down,    ESC to exit
 
