@@ -1,6 +1,6 @@
 
 
-I am new in Python but with ChatGPT it was easy to create short and addicting games.
+I am new in Python but with ChatGPT it was easy to create short and addictive games.
 
 Feel free to change the code.
 
