@@ -17,14 +17,14 @@ try:
     explosion_sound = pygame.mixer.Sound("whoosh.mp3")
     explosion_sound.set_volume(0.1)
 except:
-    explosion_sound = Non
+    explosion_sound = None
 
 
 try:
     shot_sound = pygame.mixer.Sound("mg-fire.mp3")
     shot_sound.set_volume(0.1)
 except:
-    shot_sound = Non
+    shot_sound = None
 
 
 WIDTH, HEIGHT = 1280, 720
