@@ -8,7 +8,7 @@ Easy control with ARROW-KEY's and SPACE for shooting or drop down in Tetris..
 
 Press ESC at any time to exit.
 
-Tetris-clones differ mainly in their line-delete-animation.
+Tetris-clones differ mainly in their line-clear-animation.
 
 Shooter's are all heavy action.
 
