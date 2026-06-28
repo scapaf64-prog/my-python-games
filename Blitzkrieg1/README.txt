@@ -7,7 +7,7 @@
 
 Now the emimies fight back.
 
-When 5 airplanes come through, they fire back.
+When 5 airplanes get through the gunfire, they will shoot back.
 
 ARROW-KEY's to control the guns,  SPACE to fire.   ESC to quit the game.
 
