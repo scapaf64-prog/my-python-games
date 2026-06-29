@@ -285,7 +285,8 @@ while running:
         target_pitch -= 1.0
 
     target_pitch = max(-2, min(45, target_pitch))
-
+    target_yaw = max(-100, min(100, target_yaw))
+    
     # weiches Nachziehen
     turret_yaw += (target_yaw - turret_yaw) * 0.12
     turret_pitch += (target_pitch - turret_pitch) * 0.12
