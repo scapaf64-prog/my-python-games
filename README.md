@@ -11,7 +11,7 @@ pip install pygame
 ```
 
 ## Running the application
-Download the source code from the repository and run the file (.pyw) file.
+Download the source code from the repository and run the (.pyw) file.
 ```
 python flak1.py   or    python invaders4.pyw   or   tetris1.pyw ...
 ```
