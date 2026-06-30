@@ -1,3 +1,6 @@
+
+![1](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/flak1-1.jpg)
+
 # My Games
 They are made with the Pygame library in Python.
 
@@ -18,10 +21,10 @@ python flak1.py   or    python invaders4.pyw   or   python tetris1.pyw ...
 
 ## Screenshots
 
-![1](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/flak1-1.jpg)
+![2](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/flak1-1.jpg)
 *Heavy Action ("Blitz")*
 
-![2](https://github.com/scapaf64-prog/my-python-games/blob/main/Space%20Invaders/invaders.jpg)
+![3](https://github.com/scapaf64-prog/my-python-games/blob/main/Space%20Invaders/invaders.jpg)
 *Heavy Action ("Space Invaders)*
 
 
