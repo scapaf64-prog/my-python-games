@@ -21,7 +21,7 @@ python flak1.py   or    python invaders4.pyw   or   python tetris1.pyw ...
 * [Python](https://www.python.org)
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
-## Authors
+## Author
 
 * **Me** - *Initial work*
 
