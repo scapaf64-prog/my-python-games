@@ -1,8 +1,7 @@
-
-![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 # My Games
 They are made with the Pygame library in Python.
 
+![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 
 ## Installing
 Download the Python 3 installer package from the official website and install it, if not installed previously.
@@ -17,15 +16,6 @@ Download the source code from the repository and run the (.pyw) file.
 ```
 python flak1.py   or    python invaders4.pyw   or   python tetris1.pyw ...
 ```
-
-## Screenshots
-
-![2](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/flak1-1.jpg)
-*Heavy Action ("Blitz")*
-
-![3](https://github.com/scapaf64-prog/my-python-games/blob/main/Space%20Invaders/invaders.jpg)
-*Heavy Action ("Space Invaders)*
-
 
 ## Prerequisites
 * [Python](https://www.python.org)
