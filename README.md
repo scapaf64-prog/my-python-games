@@ -1,5 +1,5 @@
 
-![1](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/flak1-1.jpg)
+![1](https://github.com/scapaf64-prog/my-python-games/blob/main/Blitzkrieg/games.jpg)
 
 # My Games
 They are made with the Pygame library in Python.
