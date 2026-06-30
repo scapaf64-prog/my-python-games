@@ -4,7 +4,7 @@ They are made with the Pygame library in Python.
 ![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 
 ## Installing
-Download the Python 3 installer package from the official website and install it, if not installed previously.
+Download the Python installer package from the official website and install it, if not installed previously.
 
 Run the following in the terminal to install the Pygame library
 ```
@@ -19,7 +19,6 @@ python flak1.pyw   or    python invaders4.pyw   or   python tetris1.pyw ...
 
 ## Prerequisites
 * [Python](https://www.python.org)
-* [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
 ## Author
 
