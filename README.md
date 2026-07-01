@@ -36,7 +36,7 @@ Shooter's are always heavy action.
 
 The games are intentionally designed so that they can be played virtually endlessly.
 
-mp4-files: short videos.
+mp4-files:   short videos.
 
-jpg-files: screenshots.
+jpg-files:   screenshots.
 
