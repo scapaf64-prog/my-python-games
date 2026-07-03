@@ -1,11 +1,11 @@
 # My Games
 They are made with the Pygame library in Python.
 
-See "breathtaking" videos on tiktok! :)
+# See "breathtaking" videos on tiktok! :)
 
 www.tiktok.com/@scapaflow69
 
-markdown# 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend! 🕹️
+# 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend! 🕹️
 
 Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Codierer. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
 
