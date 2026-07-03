@@ -28,22 +28,7 @@ Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verstä
 
 ---
 **Gefällt dir das Look & Feel?** 
-Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne ein **"Star" da
-
-## Installing
-Download the Python installer package from the official website and install it, if not installed previously.
-
-Run the following in the terminal to install the Pygame library
-```
-pip install pygame
-```
-## Running the application
-Download the source code from the repository and run the (.pyw) file.
-```
-python flak1.pyw   or    python invaders4.pyw   or   python tetris1.pyw ...
-```
-## Prerequisites
-* [Python](https://www.python.org)
+Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne ein **"Star"** da
 
 ## Author
 
