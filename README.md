@@ -1,9 +1,9 @@
 # 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend!
 
-![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
-
 ## See "exciting" videos on tiktok! :)
  www.tiktok.com/@scapaflow69
+
+![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 
 Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Codierer. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
 
