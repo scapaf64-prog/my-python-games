@@ -1,7 +1,7 @@
 # My Games
 They are made with the Pygame library in Python.
 
-## See "breathtaking" videos on tiktok! :)
+## See "exciting" videos on tiktok! :)
  www.tiktok.com/@scapaflow69
  
 ![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
