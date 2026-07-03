@@ -3,7 +3,7 @@ They are made with the Pygame library in Python.
 
 # See "breathtaking" videos on tiktok! :)
 
-www.tiktok.com/@scapaflow69
+# www.tiktok.com/@scapaflow69
 
 # 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend!
 
