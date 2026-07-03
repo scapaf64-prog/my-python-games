@@ -1,6 +1,34 @@
 # My Games
 They are made with the Pygame library in Python.
 
+See "breathtaking" videos on tiktok! :)
+
+www.tiktok.com/@scapaflow69
+
+markdown# 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend! 🕹️
+
+Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Codierer. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
+
+Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verständlichem Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
+
+## 🚀 Was dich hier erwartet:
+* **Einfacher & sauberer Code:** Perfekt zum Anschauen, Verstehen und Kopieren.
+* **Instant Gameplay:** Keine lange Einarbeitung – starten und Spaß haben!
+* **Retro-Feeling & Suchtfaktor:** Spiele, die sich einfach gut anfühlen (Look & Feel).
+
+## 🎮 Die Spiele im Repository:
+* **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor.
+* **2 Tetris-Klon:** Der absolute Klassiker im eigenen Gewand.
+
+## 🛠️ So legst du direkt los:
+1. Code herunterladen (oder kopieren).
+2. Python und Pygame installieren (`pip install pygame`).
+3. Datei starten und zocken!
+
+---
+**Gefällt dir das Look & Feel?** 
+Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne ein **"Star" da
+
 ![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 
 ## Installing
