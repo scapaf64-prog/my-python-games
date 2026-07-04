@@ -5,7 +5,7 @@
 
 ![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
 
-Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Codierer. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
+Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Coder. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
 
 Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verständlichem Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
 
