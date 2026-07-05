@@ -1,17 +1,19 @@
 
 
+"Blitzkrieg"
 
 
-"Blitzkrieg" / update
+heavy "Flak"-shooter..  
 
+There was once a very addictive shooter called "Blitz", but even KI can not find it any more, so I make my own game. :) 
 
-Now the emimies fight back.
+ARROW-KEY's to move the Flak,    SPACE to fire,    ESC for exit
 
-When 5 airplanes get through your gunfire, they will open fire on you.
+Zeppelines, that emerge with level three, need 3 hits to be destroyed. With 2 hits they turne to a "burned" red.
 
-ARROW-KEY's to control the guns,  SPACE to fire.   ESC to quit the game.
+The Radar at the bottom shows incoming airplains.
 
-flak1.mp4 is a short video of the game.
+When 5 of them get through,  you're done.
 
-
+flak.mp4 is a short video of the game.
 
