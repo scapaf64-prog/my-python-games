@@ -7,7 +7,7 @@
 
 Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Coder. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
 
-Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verständlichem Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
+Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **(verständlichem) Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
 
 ## 🚀 Was dich hier erwartet:
 * **Einfacher & sauberer Code:** Perfekt zum Anschauen, Verstehen und Kopieren.
