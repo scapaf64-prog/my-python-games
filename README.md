@@ -41,7 +41,7 @@ Shooter's are always heavy action.
 
 I'm a little proud of the gambling score display in Tetris. ( Thank you ChatGPT :)
 
-The games are intentionally designed so that they can be played virtually endlessly.
+Games are intentionally designed so that they can be played virtually endlessly.
 
 `mp4-files:`   short videos.
 
