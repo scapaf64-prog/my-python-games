@@ -31,17 +31,19 @@ Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne ein **"
 
 * **Me** - *Initial work*
 
-I am new to Python but ChatGPT help me to create short and addictive games.
+New to Python, but ChatGPT help me to create short and addictive games.
 
-Easy control with ARROW-KEY's, SPACE for shooting or drop down in Tetris..
+Easy control with ARROW-KEY's, SPACE for shooting or drop down in Tetris.
 
 Press ESC at any time to exit.
 
 Shooter's are always heavy action.
 
+I'm a little proud of the "slot-like" score display in Tetris.  ( thank you ChatGPT :)
+
 The games are intentionally designed so that they can be played virtually endlessly.
 
-mp4-files:   short videos.
+mp4-files:   `short videos`.
 
-jpg-files:   screenshots.
+jpg-files:   `screenshots`.
 
