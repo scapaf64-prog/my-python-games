@@ -1,6 +1,6 @@
 # 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend!
 
-## See "exciting" videos on tiktok! :)
+## Watch exciting videos on TikTok:
  www.tiktok.com/@scapaflow69
 
 ![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
