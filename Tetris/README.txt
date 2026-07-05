@@ -1,5 +1,5 @@
 
-This is my latest Tetris-version.
+My latest Tetris-version.
 
 
 ok, ChatGPT do a lot. :)
