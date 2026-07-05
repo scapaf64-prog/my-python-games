@@ -39,7 +39,7 @@ Press ESC at any time to exit.
 
 Shooter's are always heavy action.
 
-I'm a little proud of the "slot-like" score display in Tetris.  ( thank you ChatGPT :)
+I'm a little proud of the "slot-like" score-display in Tetris.  ( thank you ChatGPT :)
 
 The games are intentionally designed so that they can be played virtually endlessly.
 
