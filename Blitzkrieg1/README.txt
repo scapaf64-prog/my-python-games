@@ -3,7 +3,7 @@
 "Blitzkrieg"
 
 
-heavy "Flak"-shooter..  
+Heavy "Flak"-shooter..  
 
 There was once a very addictive shooter called "Blitz", but even KI can not find it any more, so I make my own game. :) 
 
