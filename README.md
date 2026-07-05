@@ -43,7 +43,7 @@ I'm a little proud of the "slot-like" score-display in Tetris.  ( Thank you Chat
 
 The games are intentionally designed so that they can be played virtually endlessly.
 
-mp4-files:   `short videos`.
+`mp4-files:`   short videos.
 
-jpg-files:   `screenshots`.
+`jpg-files:`   screenshots.
 
