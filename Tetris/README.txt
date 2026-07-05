@@ -2,7 +2,7 @@
 My latest Tetris-version.
 
 
-ok, ChatGPT do a lot. :)
+Ok, ChatGPT do a lot. :)
 
 ARROW-KEY's to move,   SPACE to drop down,    ESC to exit
 
