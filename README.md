@@ -16,7 +16,7 @@ Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **( verst
 
 ## 🎮 Die Spiele im Repository:
 * **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor.
-* **2 Tetris-Klons:** Der absolute Klassiker im eigenen Gewand.
+* **1 Tetris-Klons:** Der absolute Klassiker im eigenen Gewand.
 
 ## 🛠️ So legst du direkt los:
 1. Code herunterladen (oder kopieren).
