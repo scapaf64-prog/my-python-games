@@ -1,6 +1,7 @@
 
 "Slot Machine"
 
+Slots, Duds and Cheats!
 
 SPACE to start the Machine,   Esc for exit.
 
