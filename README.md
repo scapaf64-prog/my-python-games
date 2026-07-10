@@ -29,7 +29,7 @@ Besuche mich auch auf TikTok für Gameplay-Videos und Updates:
 ## 🎮 Die Spiele im Repository:
 * **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor und maximale Action.
 * **1 Tetris-Klon:** Der absolute Klassiker im eigenen Gewand. Besonders stolz bin ich hier auf die animierte Punkteanzeige (Danke an ChatGPT!).
-
+* **Slot Machine:** Und natürlich mein neuestes Baby, eine "Gambling-maschin" mit besonderen Eigenschaften.
 ---
 
 ## 🛠️ So legst du direkt los (Quick Start):
