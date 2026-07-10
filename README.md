@@ -1,49 +1,60 @@
 # 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend!
 
-## Watch exciting videos on TikTok:
- www.tiktok.com/@scapaflow69
+Herzlich willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Coder. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
 
-![1](https://github.com/scapaf64-prog/my-python-games/blob/main/games.jpg)
-
-Willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Coder. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
-
-Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **( verständlichem :) Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
-
-## 🚀 Was dich hier erwartet:
-* **Einfacher & sauberer Code:** Perfekt zum Anschauen, Verstehen und Kopieren.
-* **Instant Gameplay:** Keine lange Einarbeitung – starten und Spaß haben!
-* **Retro-Feeling & Suchtfaktor:** Spiele, die sich einfach gut anfühlen (Look & Feel).
-
-## 🎮 Die Spiele im Repository:
-* **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor.
-* **1 Tetris-Klons:** Der absolute Klassiker im eigenen Gewand.
-
-## 🛠️ So legst du direkt los:
-1. Code herunterladen (oder kopieren).
-2. Python und Pygame installieren (`pip install pygame`).
-3. Datei starten und zocken!
+Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verständlichem Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
 
 ---
+
+## 🎬 Watch exciting videos on TikTok
+Besuche mich auch auf TikTok für Gameplay-Videos und Updates:
+👉 **[www.tiktok.com/@scapaflow69](https://tiktok.com)**
+
+---
+
+## 📸 Screenshots & Gameplay
+
+![Spiele Übersicht](https://githubusercontent.com)
+
+*(Tipp: In diesem Repository findest du auch `.jpg`-Screenshots und kurze `.mp4`-Videos zu den einzelnen Spielen!)*
+
+---
+
+## 🚀 Was dich hier erwartet:
+* **Einfacher & sauberer Code:** Perfekt zum Anschauen, Verstehen und Selberlernen.
+* **Instant Gameplay:** Keine lange Einarbeitung – direkt starten und Spaß haben!
+* **Retro-Feeling & Suchtfaktor:** Spiele, die sich einfach gut anfühlen (Look & Feel).
+* **Endless Fun:** Die Spiele sind absichtlich so programmiert, dass du sie theoretisch unendlich spielen kannst.
+
+## 🎮 Die Spiele im Repository:
+* **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor und maximale Action.
+* **1 Tetris-Klon:** Der absolute Klassiker im eigenen Gewand. Besonders stolz bin ich hier auf die animierte Punkteanzeige (Danke an ChatGPT!).
+
+---
+
+## 🛠️ So legst du direkt los (Quick Start):
+
+1. **Code herunterladen:** Klone das Repository oder kopiere dir den Code der Spiele.
+2. **Pygame installieren:** Öffne dein Terminal/Eingabeaufforderung und gib Folgendes ein:
+   ```bash
+   pip install pygame
+   ```
+3. **Spiel starten:** Führe die gewünschte Python-Datei aus und leg los!
+
+### 🕹️ Steuerung (Controls):
+* **Pfeiltasten (Arrow Keys):** Bewegung / Steuerung
+* **Leertaste (Space):** Schießen (Shooter) oder schneller Fall (Tetris)
+* **ESC-Taste:** Das Spiel jederzeit sofort beenden
+
+---
+
+## ⭐ Support & Feedback
 **Gefällt dir das Look & Feel?** 
-Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne ein **"Star"** da
+Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne einen **Star (Stern)** hier auf GitHub da! ⭐
 
-## Author
+---
 
-* **Me** - *Initial work*
+## 👤 Author
 
-New to Python, but ChatGPT help me to create short and addictive games.
-
-Easy control with ARROW-KEY's, SPACE for shooting or drop down in Tetris.
-
-Press ESC at any time to exit.
-
-Shooter's are always heavy action.
-
-I'm a little proud of the gambling score display in Tetris. ( Thank you ChatGPT :)
-
-Games are intentionally designed so that they can be played virtually endlessly.
-
-`mp4-files:`   short videos.
-
-`jpg-files:`   screenshots.
-
+* **scapaf64-prog** - *Initial work & Idea*
+* *Supported by ChatGPT* 😉
