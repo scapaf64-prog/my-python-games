@@ -8,7 +8,7 @@ Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verstä
 
 ## 🎬 Watch exciting videos on TikTok
 Besuche mich auch auf TikTok für Gameplay-Videos und Updates:
-👉 **[www.tiktok.com/@scapaflow69](https://tiktok.com)**
+👉 **[www.tiktok.com/@scapaflow69]**
 
 ---
 
