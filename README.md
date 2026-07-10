@@ -14,7 +14,7 @@ Besuche mich auch auf TikTok für Gameplay-Videos und Updates:
 
 ## 📸 Screenshots & Gameplay
 
-![Spiele Übersicht](https://githubusercontent.com)
+![Spiele Übersicht](games.jpg)
 
 *(Tipp: In diesem Repository findest du auch `.jpg`-Screenshots und kurze `.mp4`-Videos zu den einzelnen Spielen!)*
 
