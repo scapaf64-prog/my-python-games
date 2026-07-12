@@ -8,7 +8,7 @@ If you don't feel like dealing with complicated giant projects and are looking f
 
 ## 🎬 Watch exciting videos on TikTok
 Visit me on TikTok for gameplay videos and updates:
-👉 **[www.tiktok.com/@scapaflow69](https://tiktok.com)**
+👉 **[www.tiktok.com/@scapaflow69]**
 
 ---
 
