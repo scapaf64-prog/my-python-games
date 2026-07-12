@@ -1,56 +1,56 @@
-# 🐍 Meine Python & Pygame Spiele – Einfach, schnell & süchtig machend!
+# 🐍 My Python & Pygame Games – Simple, fast & addictive!
 
-Herzlich willkommen! Ich bin kein professioneller Entwickler, sondern ein begeisterter Hobby-Coder. Zusammen mit **ChatGPT** habe ich in kurzer Zeit ein paar einfache, aber extrem packende Spiele mit **Python und Pygame** auf die Beine gestellt. 
+Welcome! I am not a professional developer, but an enthusiastic hobby coder. Together with **ChatGPT**, I quickly created a few simple but extremely engaging games using **Python and Pygame**. 
 
-Wenn du keine Lust auf komplizierte Riesen-Projekte hast, sondern nach **verständlichem Code mit echtem Suchtfaktor** suchst, bist du hier genau richtig!
+If you don't feel like dealing with complicated giant projects and are looking for **understandable code with a real addictive factor**, you've come to the right place!
 
 ---
 
 ## 🎬 Watch exciting videos on TikTok
-Besuche mich auch auf TikTok für Gameplay-Videos und Updates:
-👉 **[www.tiktok.com/@scapaflow69]**
+Visit me on TikTok for gameplay videos and updates:
+👉 **[www.tiktok.com/@scapaflow69](https://tiktok.com)**
 
 ---
 
 ## 📸 Screenshots & Gameplay
 
-![Spiele Übersicht](games.jpg)
+![Games Overview](games.jpg)
 
-*(Tipp: In diesem Repository findest du auch `.jpg`-Screenshots und kurze `.mp4`-Videos zu den einzelnen Spielen!)*
+*(Tip: In this repository, you will also find `.jpg` screenshots and short `.mp4` videos of the individual games!)*
 
 ---
 
-## 🚀 Was dich hier erwartet:
-* **Einfacher & sauberer Code:** Perfekt zum Anschauen, Verstehen und Selberlernen.
-* **Instant Gameplay:** Keine lange Einarbeitung – direkt starten und Spaß haben!
-* **Retro-Feeling & Suchtfaktor:** Spiele, die sich einfach gut anfühlen (Look & Feel).
-* **Endless Fun:** Die Spiele sind absichtlich so programmiert, dass du sie theoretisch unendlich spielen kannst.
+## 🚀 What to expect here:
+* **Simple & clean code:** Perfect for looking at, understanding, and learning on your own.
+* **Instant gameplay:** No long onboarding – start right away and have fun!
+* **Retro feeling & addictive factor:** Games that just feel good (look & feel).
+* **Endless fun:** The games are intentionally programmed so that you can theoretically play them endlessly.
 
-## 🎮 Die Spiele im Repository:
-* **2 Action-Shooter:** Schnelle Action, einfache Steuerung, hoher Highscore-Faktor und maximale Action.
-* **1 Tetris-Klon:** Der absolute Klassiker im eigenen Gewand. Besonders stolz bin ich hier auf die animierte Punkteanzeige (Danke an ChatGPT!).
-* **Slot Machine:** Und natürlich mein neuestes Baby, eine "Gambling-maschin" mit besonderen Eigenschaften.
+## 🎮 The games in the repository:
+* **2 Action Shooters:** Fast action, simple controls, highscore potential, and maximum action.
+* **1 Tetris Clone:** The absolute classic in its own design. I am particularly proud of the animated score display here (thanks to ChatGPT!).
+* **Slot Machine:** And of course, my newest baby, a "gambling machine" with special features.
 ---
 
-## 🛠️ So legst du direkt los (Quick Start):
+## 🛠️ Quick Start
 
-1. **Code herunterladen:** Klone das Repository oder kopiere dir den Code der Spiele.
-2. **Pygame installieren:** Öffne dein Terminal/Eingabeaufforderung und gib Folgendes ein:
+1. **Download the code:** Clone the repository or copy the code of the games.
+2. **Install Pygame:** Open your terminal/command prompt and enter the following:
    ```bash
    pip install pygame
    ```
-3. **Spiel starten:** Führe die gewünschte Python-Datei aus und leg los!
+3. **Start the game:** Run the desired Python file and get started!
 
-### 🕹️ Steuerung (Controls):
-* **Pfeiltasten (Arrow Keys):** Bewegung / Steuerung
-* **Leertaste (Space):** Schießen (Shooter) oder schneller Fall (Tetris)
-* **ESC-Taste:** Das Spiel jederzeit sofort beenden
+### 🕹️ Controls:
+* **Arrow Keys:** Movement / Steering
+* **Spacebar:** Shoot (Shooter) or fast drop (Tetris)
+* **ESC Key:** Quit the game immediately at any time
 
 ---
 
 ## ⭐ Support & Feedback
-**Gefällt dir das Look & Feel?** 
-Wenn du den Code ausprobierst und Spaß dabei hast, lass mir super gerne einen **Star (Stern)** hier auf GitHub da! ⭐
+**Do you like the look & feel?** 
+If you try out the code and have fun with it, feel free to leave a **Star (⭐)** here on GitHub!
 
 ---
 
