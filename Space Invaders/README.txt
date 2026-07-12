@@ -15,6 +15,8 @@ Light-brown enemies needs 3 hits, dark-brown enemies needs 2 hits and red enemie
 
 When your ship is hit by a bullet, you are "invincible" as long as your ship is blinking.
 
+Unfortunately, if the ship collides with an enemy, it also loses a life.
+
 invaders.mp4 is a short video of the game.
 
 
