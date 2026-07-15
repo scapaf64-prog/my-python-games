@@ -30,6 +30,7 @@ Visit me on TikTok for gameplay videos and updates:
 * **2 Action Shooters:** Fast action, simple controls, highscore potential, and maximum action.
 * **1 Tetris Clone:** The absolute classic in its own design. I am particularly proud of the animated score display here (thanks to ChatGPT!).
 * **Slot Machine:** And of course, my newest baby, a "gambling machine" with special features.
+* **Flappy Bird:** The last game, Inspired by a short TikTok clip and finished in two days. (It was a lot of work :)
 ---
 
 ## 🛠️ Quick Start
