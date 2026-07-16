@@ -5,6 +5,8 @@ Flappy Bird
 
 This is my very own version of "Flappy Bird".
 
+To run the game you probably have to install the ursina-module first. ("pip install ursina").
+
 Besides, there is a short Demopro-program, showing what can happen when pipes suddenly become presses. :)
 
 ( The 'P' key triggers the press, Press 'R' to spawn a new bird.  ESC for quit. )
