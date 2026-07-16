@@ -9,7 +9,7 @@ To run the game you probably have to install the ursina-module first. ("pip inst
 
 Besides, there is a short Demopro-program, showing what can happen when pipes suddenly become presses. :)
 
-( The 'P' key triggers the press, Press 'R' to spawn a new bird.  ESC for quit. )
+( The 'P' key triggers the press, Press 'R' to spawn a new bird.  ESC to quit. )
 
 Flappy Bird:
 
