@@ -3,7 +3,7 @@
 Flappy Bird
 
 
-This is my very own version of "Flappy Bird".
+This is my very own version of "Flappy Bird". :)
 
 To run the game you probably have to install the ursina-module first. ("pip install ursina").
 
