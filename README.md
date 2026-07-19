@@ -14,7 +14,7 @@ Visit me on TikTok for gameplay videos and updates:
 
 ## 📸 Screenshots & Gameplay
 
-![Games Overview](games.jpg)
+https://github.com/user-attachments/assets/6b510354-dc46-401f-bad7-949326846ffa
 
 *(Tip: In this repository, you will also find `.jpg` screenshots and short `.mp4` videos of the individual games!)*
 
